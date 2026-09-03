@@ -1,3 +1,5 @@
+![CI](https://github.com/dejandvorzak/selenium-cucumber-framework/actions/workflows/ci.yml/badge.svg)
+
 # selenium-cucumber-framework
 
 A compact reference implementation of a Selenium + Cucumber test automation

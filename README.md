@@ -1,4 +1,4 @@
-# dejanProject
+# selenium-cucumber-framework
 
 Test automation framework for [saucedemo.com](https://www.saucedemo.com/), built with Selenium, Cucumber (BDD) and TestNG, using the Page Object Model. Test results are reported with Allure.
 
